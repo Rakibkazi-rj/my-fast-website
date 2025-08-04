@@ -1,0 +1,53 @@
+body{
+    margin: 3%;
+    font-family: "Poppins", sans-serif;
+}
+.half-width{
+    width: 50%;
+    margin left:5%;
+    padding: :left 3%;
+    float: left;
+} 
+.half-width img{
+width: 90%;
+}
+.red-highlight{
+    color: red;
+}
+section{
+  height: 500px;
+  padding-bottom: 100px;
+}
+.coxs-img{
+    width: 50%;
+}
+.top-part{
+    background-image: url(img/header-bg.png);
+    background-repeat: no-repeat;
+}
+.midel-part{
+    background-image: url(img/footer-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.last-part{
+    background-image: url(img/biography-bg.png);
+}
+.link-button{
+    text-decoration: none; font-size: 20px; background-color: tomato;
+    border-radius:3px ; padding:10px 20px; font-weight: 700; color: whitesmoke;
+}
+.boking-part{
+    box-shadow: 10px 10px 40px ; color: gray;
+    border-radius: 10px;
+    height: 50%;
+    width: 40%;
+    margin: 1%;
+    margin-left: 2%;
+    padding: 1%;
+}
+.boking-area{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
